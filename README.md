@@ -2,16 +2,13 @@
 Coursera Data Science Specialization - Getting and Cleaning Data Course Project
 
 # Introduction
-----------------------------------------------------------------------------------------
 This is my project submission and below is some notes and comments on the dataset
 
 # Information on the Data 
-----------------------------------------------------------------------------------------
 This is not meant to be detailed information on the data and dataset. For more detailed 
 information, kindly refer to the codebook for more information.
 
 # Purpose of the Project 
-----------------------------------------------------------------------------------------
 The R script - run_analysis.R is responsible for the doing the following:
 
 Download the dataset if it does not already exist in the working directory
