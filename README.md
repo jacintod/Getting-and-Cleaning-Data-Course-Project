@@ -1,12 +1,12 @@
-This project is based on the Davide Anguita, Alessandro Ghio, Luca Oneto, 
-Xavier Parra and Jorge L. Reyes-Ortiz Themos Patrikios publication 
-"Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine".
-International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+This project is based on the Davide Anguita, Alessandro Ghio, Luca Oneto,Xavier Parra and Jorge L. Reyes-Ortiz Themos Patrikios publication 
 
-This is my project submission and below is some notes and comments on the dataset# Getting-and-Cleaning-Data-Course-Project
+# Getting-and-Cleaning-Data-Course-Project
 Coursera Data Science Specialization - Getting and Cleaning Data Course Project
+This is my project submission and below is some notes and comments on the dataset
 
 # Introduction
+"Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine".
+International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 # Information on the Data 
 This is not meant to be detailed information on the data and dataset. For more detailed 
