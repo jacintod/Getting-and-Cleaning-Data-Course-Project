@@ -1,8 +1,12 @@
-# Getting-and-Cleaning-Data-Course-Project
+## This project is based on the Davide Anguita, Alessandro Ghio, Luca Oneto, 
+## Xavier Parra and Jorge L. Reyes-Ortiz Themos Patrikios publication 
+## "Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine".
+## International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+This is my project submission and below is some notes and comments on the dataset# Getting-and-Cleaning-Data-Course-Project
 Coursera Data Science Specialization - Getting and Cleaning Data Course Project
 
 # Introduction
-This is my project submission and below is some notes and comments on the dataset
 
 # Information on the Data 
 This is not meant to be detailed information on the data and dataset. For more detailed 
@@ -18,4 +22,4 @@ The R script - run_analysis.R is responsible for the doing the following:
 - Merges the two respective datasets into a single dataset
 - Converts the activity and subject columns into factors or descriptive names 
 - Creates a file from the tidy or clean dataset that consists of the average (mean) value of each variable for each subject and activity pair.
-- The finale result of the script is the file tidy.txt which comprises of the final tidy dataset.
+- The final result of the script is the file tidy.txt which comprises of the final tidy dataset.
