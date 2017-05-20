@@ -1,7 +1,7 @@
 This project is based on the Davide Anguita, Alessandro Ghio, Luca Oneto,Xavier Parra and Jorge L. Reyes-Ortiz Themos Patrikios publication 
 
 # Getting-and-Cleaning-Data-Course-Project
-Coursera Data Science Specialization - Getting and Cleaning Data Course Project
+Coursera Data Science Specialization - Getting and Cleaning Data Course Project.
 This is my project submission and below is some notes and comments on the dataset
 
 # Introduction
